@@ -5,7 +5,7 @@
     **Project:** Prodigy Infotech - Internship Task 02  
     **Task Name:** Compatibility Testing for a Basic Web Page  
     **Website Under Test:** [https://www.demoblaze.com](https://www.demoblaze.com)  
-    **Tester:** \[Your Name\]
+    **Tester:** Priyadharshini J
     
     * * *
     
